@@ -1,7 +1,9 @@
 class Conflict{
   int a=5;
   int b=8;
-  int d=12343434;
+
+  int c=12;
+
 
 
 
